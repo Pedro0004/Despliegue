@@ -1,0 +1,34 @@
+#Archivos de compilacion#
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+#Archivos empaquetados#
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#Archivos log#
+*.log
+*.sql
+*.sqlite
+
+#Archivos generados por el SO#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#Otros archivos#
+ignorar.yml
